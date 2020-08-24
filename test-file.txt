@@ -1,1 +1,3 @@
 A test file to show how to create a new file
+
+The GitHub desktop version can actually be useful from what I see, its simpler than remembering commands.
